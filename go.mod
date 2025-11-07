@@ -1,4 +1,4 @@
-module github.com/auuunya/go-element
+module github.com/Optimax125/go-element
 
 go 1.19
 
